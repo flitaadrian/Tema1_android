@@ -1,0 +1,11 @@
+ festList.add("Untold");
+        festList.add("TIFF");
+        festList.add("Electric Castel");
+        festList.add("Neversea");
+        festList.add("Artist Awards");
+
+        map.put(festList.get(0), R.drawable.untold);
+        map.put(festList.get(1), R.drawable.tiff);
+        map.put(festList.get(2), R.drawable.electriccastle);
+        map.put(festList.get(3), R.drawable.neversea);
+        map.put(festList.get(4), R.drawable.artistawards);
